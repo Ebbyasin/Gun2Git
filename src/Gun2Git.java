@@ -34,9 +34,11 @@ public class Gun2Git {
          git log --oneline
          git remote add origin https://github.com/techproed2020/Git_...
          git push -u origin master
+         NOT: git log --online--> Commitlerimdeki yani versiyonlarimdaki durumu gosterir.
          */
 
         System.out.println("github ı da ogrendim");
+
 
 
 
