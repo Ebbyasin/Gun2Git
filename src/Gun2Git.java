@@ -12,7 +12,7 @@ public class Gun2Git {
         4-git push-->uzak repo'ya (yani remote - Github) a gondermek icin kullandigimiz kod.
         yalniz git push komutunu direk kullanmak istersek 1 kez
               --->   git remote add origin -github da olusturdugumuz repositonun adresi-//yani remote ye uzaga
-                 orjinal olarak su adresi ekle demek.
+                 orjinal olarak su adresi ekle demek.git commit ten sonra ilk kez bu yapilir
               -->   git push -u origin master
         NOT:Ustte en son yazdigimiz bu iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin
         sadece git push kullaniriz.
@@ -35,6 +35,8 @@ public class Gun2Git {
          git remote add origin https://github.com/techproed2020/Git_...
          git push -u origin master
          */
+
+        System.out.println("github ı da ogrendim");
 
 
 
